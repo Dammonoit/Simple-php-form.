@@ -1,0 +1,11 @@
+<?php
+echo"$_POST[fname]";echo"</br>";
+echo"$_POST[lname]";echo"</br>";
+echo"$_POST[mail]";echo"</br>";
+echo"$_POST[city]";echo"</br>";
+echo"$_POST[state]";echo"</br>";
+echo"$_POST[zipcode]";echo"</br>";
+echo"$_POST[asp]";echo"</br>";
+echo"$_POST[cp]";echo"</br>";
+echo"$_POST[MP]";echo"</br>";
+?>
